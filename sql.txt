@@ -1,0 +1,3 @@
+CREATE TABLE `weatherdata`.`debugtable` ( `dateandtime` DATETIME NULL DEFAULT NULL , `debugresulttext` TEXT CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL ) ;
+
+CREATE TABLE `weatherdata`.`weatherresult` ( `dateandtime` DATETIME NULL DEFAULT NULL , `weatherresulttext` TEXT CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL ) ;
