@@ -28,7 +28,7 @@ with open('/home/pi/receive_all_weather_email.csv', 'r') as f:
 
 #User, password to send mail
 emailuser = "weather.hanoi.noc@gmail.com"
-emailpassword = "Hanoinoc1"
+emailpassword = "password"
 subject = u'NOC Weather Notification'
 adminemail = 'phuong.tran@ericsson.com'
 
